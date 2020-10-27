@@ -61,18 +61,6 @@ export const Mediamarkt: Store = {
 			url: 'https://www.mediamarkt.de/de/product/-2683229.html'
 		},
 		{
-			brand: 'inno3d',
-			model: 'ichill 4x',
-			series: '3080',
-			url: 'https://www.mediamarkt.de/de/product/-2684238.html'
-		},
-		{
-			brand: 'inno3d',
-			model: 'ichill 3x',
-			series: '3080',
-			url: 'https://www.mediamarkt.de/de/product/-2684241.html'
-		},
-		{
 			brand: 'gigabyte',
 			model: 'gaming oc',
 			series: '3080',

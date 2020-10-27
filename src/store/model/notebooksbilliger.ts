@@ -85,6 +85,24 @@ export const Notebooksbilliger: Store = {
 			model: 'rog strix',
 			series: '3080',
 			url: 'https://www.notebooksbilliger.de/asus+rog+strix+geforce+rtx+3080+10gb+gddr6x+grafikkarte+677363'
+		},
+		{
+			brand: 'asus',
+			model: 'rog strix',
+			series: '3090',
+			url: 'https://www.notebooksbilliger.de/asus+rog+strix+geforce+rtx+3090+oc+24gb+gddr6x+grafikkarte'
+		},
+		{
+			brand: 'nvidia',
+			model: 'founders edition',
+			series: '3080',
+			url: 'https://www.notebooksbilliger.de/nvidia+geforce+rtx+3080+founders+edition'
+		},
+		{
+			brand: 'nvidia',
+			model: 'founders edition',
+			series: '3090',
+			url: 'https://www.notebooksbilliger.de/nvidia+geforce+rtx+3090+founders+edition'
 		}
 	],
 	name: 'notebooksbilliger'
